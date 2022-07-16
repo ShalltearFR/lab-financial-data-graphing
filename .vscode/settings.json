@@ -3,5 +3,25 @@
     "node_modules": "explorerExcludedFiles",
     "npm-debug.log": "explorerExcludedFiles",
     "package-lock.json": "explorerExcludedFiles"
-  }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#f4aeee",
+    "activityBar.activeBorder": "#828c13",
+    "activityBar.background": "#f4aeee",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#828c13",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#f4aeee",
+    "statusBar.background": "#ee81e5",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#e854dc",
+    "statusBarItem.remoteBackground": "#ee81e5",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#ee81e5",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#ee81e599",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#ee81e5"
 }
