@@ -1,9 +1,4 @@
 {
-  "files.exclude": {
-    "node_modules": "explorerExcludedFiles",
-    "npm-debug.log": "explorerExcludedFiles",
-    "package-lock.json": "explorerExcludedFiles"
-  },
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#f4aeee",
     "activityBar.activeBorder": "#828c13",
@@ -23,5 +18,10 @@
     "titleBar.inactiveBackground": "#ee81e599",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#ee81e5"
+  "peacock.color": "#ee81e5",
+  "files.exclude": {
+    "node_modules": "explorerExcludedFiles",
+    "npm-debug.log": "explorerExcludedFiles",
+    "package-lock.json": "explorerExcludedFiles"
+  }
 }
